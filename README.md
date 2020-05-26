@@ -1,5 +1,3 @@
-# Zana-Coding-Challenge
-
 # Task 1
 fastText is a library for learning of word embeddings and text classification. It makes available pre-trained word vectors in various languages. Create a Python script which:
 a. Retrieves the word vectors for the English language and prints out their dimension (Hint: you may optionally make use of the Gensim
